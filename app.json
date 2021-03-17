@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "shopping_list_with_DB",
-    "slug": "shopping_list_with_DB",
+    "name": "shopping_list_UI",
+    "slug": "shopping_list_UI",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
